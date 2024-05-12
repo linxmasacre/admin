@@ -9,6 +9,7 @@ body {
 min-height: 100vh;
 background: url(adminbg3.jpg) no-repeat;
 background-position: flex;
+background-size: cover;
 display: flex;
 align-items: center;
 justify-content: flex;
