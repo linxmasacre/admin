@@ -6,7 +6,7 @@ font-family: "Poppins", sans-serif;
 }
 
 body {
-min-height: 150vh;
+min-height: 100vh;
 background: url(adminbg3.jpg) no-repeat;
 background-size: cover;
 background-position: center;
